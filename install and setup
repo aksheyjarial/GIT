@@ -1,0 +1,6 @@
+$ sudo apt-get update
+$ sudo apt-get install git
+After Installing you can configure your user name and e-mail id.
+
+$ git config --global user.name "First Last"
+$ git config --global user.email "myemail@domain.com"
